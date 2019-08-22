@@ -1,0 +1,21 @@
+{
+    "name": "marsli9945/pgooper",
+    "description": "A Local File Database",
+    "type": "library",
+    "require": {
+        "php": "^7.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "marsli9945",
+            "email": "marsli9945@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Pgooper\\": "src/"
+        }
+    }
+}
